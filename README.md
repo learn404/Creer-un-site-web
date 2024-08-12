@@ -1,1 +1,2 @@
-# Creer-un-site-web
+# Creer-un-site-web -  Learn404
+Ce dépôt GitHub est associé au cours Créer un site web de [Learn404](www.learn404.com). Il contient l'ensemble des ressources, exemples de code, et projets développés au cours de cette formation.
